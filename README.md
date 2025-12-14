@@ -82,6 +82,6 @@ text-editor-project/
 
 ---
 
-**⭐ If this project helped you understand Java Swing, please star the repository!**
+**⭐ If you liked this project , please star the repository!**
 
 *Keep Building! 🚀*
